@@ -1,5 +1,34 @@
 # Module 1
 
+# Table of Contents
+
+- [General Notes](#general-notes)
+- [Information Technology, The Internet, and You](#information-technology-the-internet-and-you)
+  - [Dictionary](#dictionary)
+  - [Information Systems](#information-systems)
+  - [Software](#software)
+    - [System Software](#system-software)
+    - [Application Software](#application-software)
+  - [Hardware](#hardware)
+    - [Types of Computers](#types-of-computers)
+    - [Cell Phones](#cell-phones)
+    - [Personal Computer Hardware](#personal-computer-hardware)
+  - [Data](#data)
+  - [Connectivity and The Mobile Internet](#connectivity-and-the-mobile-internet)
+  - [Careers In IT](#careers-in-it)
+- [Creating and Editing Documents](#creating-and-editing-documents)
+  - [Clipboard](#clipboard)
+  - [Quick Access Toolbar](#quick-access-toolbar)
+  - [Repeat Change](#repeat-change)
+  - [Fonts, Fonts Sizes, and Attributes](#fonts-fonts-sizes-and-attributes)
+    - [Font Dialog Box](#font-dialog-box)
+    - [Character Spacing](#character-spacing)
+    - [Text Effects](#text-effects)
+  - [Search and The Search Pane](#search-and-the-search-pane)
+  - [Editor Pane](#editor-pane)
+  - [Summary (Most Tasks Are Simple)](#summary-most-tasks-are-simple)
+- [Three Things To Keep You Safe Online](#three-things-to-keep-you-safe-online)
+
 # General Notes
 
 - [Free Antivirus](https://free.avg.com)

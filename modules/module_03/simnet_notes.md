@@ -1,537 +1,518 @@
-# Module 3 - CIS105
-
-# Dictionary
-
-<details><summary><strong>App</strong></summary><p>See Application
-software.</p></details>
-
-<details><summary><strong>Application software</strong></summary><p>Also
-referred to as apps. Software that can perform useful work, such as word
-processing, cost estimating, or accounting tasks. The user primarily
-interacts with application software.</p></details>
-
-<details><summary><strong>App store</strong></summary><p>A website that
-provides access to specific mobile apps that can be downloaded either
-for a nominal fee or free of charge.</p></details>
-
-<details><summary><strong>Bitmap image</strong></summary><p>Graphic file
-in which an image is made up of thousands of dots
-(pixels).</p></details>
-
-<details><summary><strong>Blog</strong></summary><p>A type of personal
-website where articles are regularly posted.</p></details>
-
-<details><summary><strong>Button</strong></summary><p>A special area you
-can click to make links that “navigate” through a
-presentation.</p></details>
-
-<details><summary><strong>Cloud suite</strong></summary><p>Suite stored
-at a server on the Internet and available anywhere from the
-Internet.</p></details>
-
-<details><summary><strong>Contextual tab</strong></summary><p>A type of
-tab found in Microsoft Word that appears only when needed and
-anticipates the next operations to be performed by the
-user.</p></details>
-
-<details><summary><strong>Database</strong></summary><p>A collection of
-related information, like employee names, addresses, and phone numbers.
-It is organized so that a computer program can quickly select the
-desired pieces of information and display them for you.</p></details>
-
-<details><summary><strong>Database management system
-(DBMS)</strong></summary><p>To organize, manage, and retrieve data. DBMS
-programs have five subsystems: DBMS engine, data definition, data
-manipulation, applications generation, and data administration. An
-example of a database management system is Microsoft Access. See also
-Database manager.</p></details>
-
-<details><summary><strong>Database manager</strong></summary><p>Software
-package used to set up, or structure, a database such as an inventory
-list of supplies. It also provides tools to edit, enter, and retrieve
-data from the database.</p></details>
-
-<details><summary><strong>Desktop publishing
-program</strong></summary><p>Program that allows you to mix text and
-graphics to create publications of professional quality.</p></details>
-
-<details><summary><strong>Dialog box</strong></summary><p>Provides
-additional information and requests user input.</p></details>
-
-<details><summary><strong>Document</strong></summary><p>Any kind of text
-material.</p></details>
-
-<details><summary><strong>Drawing program</strong></summary><p>Program
-used to help create artwork for publications. See also Illustration
-program.</p></details>
-
-<details><summary><strong>Free-to-play</strong></summary><p>A business
-model for app sales where the initial app is free but advanced features
-require purchases.</p></details>
-
-<details><summary><strong>Galleries</strong></summary><p>Feature of
-Microsoft Office that simplifies the process of making selections from a
-list of alternatives by replacing dialog boxes with visual presentations
-of results.</p></details>
-
-<details><summary><strong>General-purpose
-application</strong></summary><p>Application used for doing common
-tasks, such as browsers and word processors, spreadsheets, databases,
-management systems, and presentation software. Also known as
-productivity applications.</p></details>
-
-<details><summary><strong>Graphical user interface
-(GUI)</strong></summary><p>Special screen that allows software commands
-to be issued through the use of graphic symbols (icons) or pull-down
-menus.</p></details>
-
-<details><summary><strong>Graphics program</strong></summary><p>Program
-for making and altering digital images and video. This category of
-specialized applications include video and image editors, illustration
-programs, and desktop publishing programs.</p></details>
-
-<details><summary><strong>Groups</strong></summary><p>In Microsoft Word,
-each tab is organized into groups that contain related items. In social
-media, communities of individuals who share a common
-interest.</p></details>
-
-<details><summary><strong>HTML editor</strong></summary><p>See Web
-authoring program.</p></details>
-
-<details><summary><strong>Icon</strong></summary><p>Graphic objects on
-the desktop used to represent programs and other files.</p></details>
-
-<details><summary><strong>Illustration program</strong></summary><p>Also
-known as drawing programs; used to create digital illustrations and
-modify vector images and thus create line art, 3D models, and virtual
-reality.</p></details>
-
-<details><summary><strong>Image editor</strong></summary><p>An
-application for modifying bitmap images.</p></details>
-
-<details><summary><strong>Menu</strong></summary><p>List of
-commands.</p></details>
-
-<details><summary><strong>Menu bar</strong></summary><p>Menus are
-displayed in a menu bar at the top of the screen.</p></details>
-
-<details><summary><strong>Mobile apps
-(application)</strong></summary><p>Add-on features for a variety of
-mobile devices, including smartphones, netbooks, and
-tablets.</p></details>
-
-<details><summary><strong>Mobile apps
-(application)</strong></summary><p>Add-on features for a variety of
-mobile devices, including smartphones, netbooks, and
-tablets.</p></details>
-
-<details><summary><strong>Office software
-suites</strong></summary><p>See Productivity suites.</p></details>
-
-<details><summary><strong>Office suites</strong></summary><p>See
-Productivity suites.</p></details>
-
-<details><summary><strong>Online office
-suite</strong></summary><p>Office suite stored online and available
-anywhere the Internet can be accessed.</p></details>
-
-<details><summary><strong>Page layout program</strong></summary><p>See
-Desktop publishing program.</p></details>
-
-<details><summary><strong>Photo editor</strong></summary><p>See Image
-editor.</p></details>
-
-<details><summary><strong>Pixel (picture
-element)</strong></summary><p>Smallest unit on the screen that can be
-turned on and off or made different shades. Pixels are individual dots
-that form images on a monitor. The greater the resolution, the more
-pixels and the better the clarity.</p></details>
-
-<details><summary><strong>Pointer</strong></summary><p>For a monitor, a
-pointer is typically displayed as an arrow and controlled by a mouse.
-For a database, a pointer is a connection between a parent node and a
-child node in a hierarchical database.</p></details>
-
-<details><summary><strong>Presentation
-software</strong></summary><p>Software used to combine a variety of
-visual objects to create attractive and interesting
-presentations.</p></details>
-
-<details><summary><strong>Productivity suites</strong></summary><p>Also
-known as office suites; contain professional-grade application programs,
-including word processing, spreadsheets, and more. A good example is
-Microsoft Office.</p></details>
-
-<details><summary><strong>Raster</strong></summary><p>See Bitmap
-image.</p></details>
-
-<details><summary><strong>Ribbon</strong></summary><p>Feature of
-Microsoft Office that replaces menus and toolbars by organizing commonly
-used commands into a set of tabs.</p></details>
-
-<details><summary><strong>Ribbon GUI</strong></summary><p>An interface
-that uses a system of ribbons, tabs, and galleries to make it easier to
-find and use all the features of an application.</p></details>
-
-<details><summary><strong>Role playing game
-(RPG)</strong></summary><p>Computer game in which players assume persona
-of one of the game’s actors.</p></details>
-
-<details><summary><strong>Software
-engineer</strong></summary><p>Programming professional or programmer who
-analyzes users’ needs and creates application software.</p></details>
-
-<details><summary><strong>Software
-engineer</strong></summary><p>Programming professional or programmer who
-analyzes users’ needs and creates application software.</p></details>
-
-<details><summary><strong>Specialized
-applications</strong></summary><p>Program that are narrowly focused on
-specific disciplines and occupations. Some of the best known are
-multimedia, web authoring, graphics, virtual reality, and artificial
-intelligence.</p></details>
-
-<details><summary><strong>Specialized
-suite</strong></summary><p>Programs that focus on specialized
-applications such as graphics or financial planning.</p></details>
-
-<details><summary><strong>Spreadsheet</strong></summary><p>Computer-
-produced spreadsheet based on the traditional accounting worksheet that
-has rows and columns used to present and analyze data.</p></details>
-
-<details><summary><strong>System
-software</strong></summary><p>“Background” software that enables the
-application software to interact with the computer. System software
-consists of the operating system, utilities, device drivers, and
-language translators. It works with application software to handle the
-majority of technical details.</p></details>
-
-<details><summary><strong>Tab</strong></summary><p>Used to divide the
-ribbon into major activity areas, with each tab being organized into
-groups that contain related items.</p></details>
-
-<details><summary><strong>Toolbar</strong></summary><p>Bar located
-typically below the menu bar containing icons or graphical
-representations for commonly used commands.</p></details>
-
-<details><summary><strong>User interface</strong></summary><p>Means by
-which users interact with application programs and hardware. A window is
-displayed with information for the user to enter or choose, and that is
-how users communicate with the program.</p></details>
-
-<details><summary><strong>Utility suite</strong></summary><p>A program
-that combines several utilities in one package to improve system
-performance.</p></details>
-
-<details><summary><strong>Vector illustration</strong></summary><p>See
-Vector image.</p></details>
-
-<details><summary><strong>Vector image</strong></summary><p>Graphics
-file made up of a collection of objects such as lines, rectangles, and
-ovals. Vector images are more flexible than bitmaps because they are
-defined by mathematical equations so they can be stretched and resized.
-Illustration programs create and manipulate vector graphics. Also known
-as vector illustrations.</p></details>
-
-<details><summary><strong>Video editor</strong></summary><p>Program for
-editing videos to enhance their quality and appearance.</p></details>
-
-<details><summary><strong>Video game design
-software</strong></summary><p>Program for organizing and providing
-guidance for the entire game design process, including character
-development and environmental design.</p></details>
-
-<details><summary><strong>Web authoring</strong></summary><p>Creating a
-website.</p></details>
-
-<details><summary><strong>Web authoring
-program</strong></summary><p>Word processing program for generating web
-pages. Also called HTML editor or web page editor. Widely used web
-authoring programs include Adobe Dreamweaver and Microsoft
-FrontPage.</p></details>
-
-<details><summary><strong>Web page editor</strong></summary><p>See Web
-authoring program.</p></details>
-
-<details><summary><strong>Window</strong></summary><p>A rectangular area
-containing a document or message.</p></details>
-
-<details><summary><strong>Word processor</strong></summary><p>The
-computer and the program that allow you to create, edit, save, and print
-documents composed of text.</p></details>
-
-<details><summary><strong>WYSIWYG (what you see is what you get)
-editors</strong></summary><p>Web authoring programs that build a page
-without requiring direct interaction with the HTML code and then preview
-the page described by the HTML code.</p></details>
-
+# Module 3 - Word: Collaborating With Others and Working With Reports
 
 # General Notes
 
-# Application Software
+# SLO 3.1: Using Comments
+
+- Use comments to provide feedback in document without changing text
+- Can customize appearance, review, edit, and delete comments
+- Each comment is attributed to user name stored in Office
+- Can change user name in Office
+
+## Change User Name
 
-There are two kinds of software:
+1. Open Track Changes Options dialog box (Review tab, Tracking group)
+2. Click Change User Name button to open Word Options dialog box
+3. Enter name and initials in text boxes
+4. Check box to always use these values
+5. Click OK to close Word Options dialog box
+6. Click OK to close Track Changes Options dialog box
+
+## Insert a Comment
+
+- Comment appears in Markup area to right of document
+- Author's name and time/date appear with comment text below
+
+1. Select text to insert comment
+2. Click New Comment button (Review or Insert tab, Comments group)
+3. Type message in comment
+4. Click within document to leave Markup area
+
+## Modern Comments
 
-- <details><summary><strong>System Software</strong></summary>works with end
-  users, application software, and computer hardware to handle the majority of
-  technical details.</details>
-- <details><summary><strong>Application Software</strong></summary>
-  End-user software and is used to accomplish a variety of tasks.</details>
+- Use @mentions to mention people in comments and link them to document
+- Person will receive email notification if already shared
 
-Application software can be divided into three categories:
+## Ink Comments
 
-- **Mobile apps:** Applications designed for cell phones and tablets.
-- **General-purpose Applications:** Includes word processing programs,
-  presentation software, spreadsheets, and database management systems.
-- **Specialized Applications:** Include thousands of programs that are more
-  narrowly focused on specific disciplines and occupations.
+- Handwrite comment using stylus or finger on touch-screen computer
+- Comment displays larger in Markup area, use eraser to remove text
 
-## App Stores
+## Review Comments
 
-An app store is where you can download applications to work with your mobile,
-laptop, and desktop devices. Three of the best-known app stores are:
+- Each comment is attributed to reviewer
+- Navigation tools to move to next/previous comment
+- Reply, resolve, or reopen comment
 
-- Apple's App Store
-- Google Play
-- Microsoft Store
+## Edit and Delete Comments
 
-Applications are written for a particular type of device.
+- Edit comment by clicking and editing text
+- Delete comment individually or delete all comments in document at once
 
-- For example, an app designed for Apple's iPhone will not work on a Windows
-  laptop. Therefore, most app stores focus on apps for a particular type of
-  device.
+# SLO 3.2: Using Track Changes and Sharing
 
-### More Widely Used App Stores
+## Track Changes
 
-| Store           | Focus           | Site                          |
-|-----------------|-----------------|-------------------------------|
-| Apple App Store | Apple Devices   | <https://apps.apple.com>      |
-| Microsoft Store | Windows Devices | <https://apps.microsoft.com>  |
-| Google Play     | Android Devices | <https://play.google.com>     |
-| Amazon          | Android Devices | <https://amazon.com/appstore> |
+- Valuable editing tool in Word that marks changes in a document
+- All reviewers can see changes in the document
+- Changes display in body of document and in Markup area
+- To turn on Track Changes:
+    - Click the Track Changes button [Review tab, Tracking group]
+    - Alternatively, click the Track Changes drop-down list and select Track
+      Changes
+    - To turn off Track Changes, click the Track Changes button
+    - Ctrl+Shift+E toggles Track Changes on and off
 
-## User Interface
+## Display for Review Views
 
-A **User interface** is the portion of the application that allows you to
-control and to interact with the program.
+- Determines appearance of editing changes in document
+- Different views: Simple Markup, All Markup, No Markup, Original
+- All Markup view is typically used when reviewing document with changes
+- Click the Display for Review drop-down list [Review tab, Tracking group] to
+  select view
 
-- Most general purpose applications use a **graphical user interface (GUI)**
-  that display elements called **icons** to represent familiar objects.
+## Accept and Reject Changes
 
-Many applications _(Microsoft applications in particular)_ use an interface
-known as the **Ribbon GUI**, which changes based on the needs of the user.
+- Review each proposed change and accept or reject it
+- Best to work in All Markup view when reviewing document with tracked changes
+- Changes attributed to a reviewer
+- To accept or reject changes:
+    - Place insertion point at beginning of document
+    - Click the Display for Review drop-down list [Review tab, Tracking group]
+      and select All Markup
+    - Click the Next or Previous button [Review tab, Changes group] to select
+      change
+    - Click the Accept or Reject button [Review tab, Changes group]
+    - Use Accept or Reject drop-down list for additional options
+    - Word stops on comments, accept or reject comment
 
-- **Ribbons** replace toolbars and menus by organizing commonly used commands
-  into
-  sets of related activities. These activities are displayed as tabs and appear
-  in the first ribbon.
-- **Tabs** divide the ribbon into major actiivty areas. Each tab is then
-  organized into **groups** that contain related items.
-    - Some tabs, called **contextual tabs**, only appear when they are needed
-      and
-      anticipate the next operation to be performed by the user.
-- **Galleries**, like dialog boxes, provide additional options and simplify
-  choosing an option by showing the effect.
+## Reviewing Pane
 
-## Common Features
+- Separate pane that includes all tracked changes and comments
+- Can be displayed vertically or horizontally
+- To open Reviewing pane:
+    - Click the Reviewing Pane drop-down list [Review tab, Tracking group]
 
-Some of the most common features of applications:
+## Share an Online File
 
-- Spelling and grammar checker — looks for misspelled words or grammatical
-  errors.
-- Alignment — centers, right-aligns, or left-aligns numbers and characters.
-- Fonts and font sizes — specify the size and style of entered numbers and text.
-- Character effects — provide a variety of different typefaces, such as bold or
-  italics.
-- Edit options — provide easy ways to edit text, such as cut, copy, and paste.
-- Find and replace — searches a document for a specific word or phrase, with the
-  option to replace the word or phrase with something else.
+- Option to share online file with others for real-time collaboration
+- File must first be saved in OneDrive
+- To share file:
+    - Open file
+    - Save file to OneDrive if necessary
+    - Click the Share button in the upper-right corner of the Office app window
+    - Click the Link settings button to open the Link settings window
+    - Select who can use sharing link and set options
+    - Copy sharing link and paste in email or other online location
+    - Type email address of recipient in the To: Name, group or email area
+    - Type message to recipient in Message area (optional)
+    - Click the Send button
+
+# SLO 3.3 - Using Footnotes and Endnotes
 
-# Mobile Apps
+- Footnotes and endnotes are used to cite reference sources and provide
+  additional information.
+- Footnotes display at the bottom of each page, while endnotes display at the
+  end of the document.
+- Word numbers notes consecutively and can customize the number format and
+  convert between footnotes and endnotes.
+
+## Inserting Footnotes
+
+- Place insertion point after word where footnote is to be inserted.
+- Click the "References" tab and the "Insert Footnote" button.
+- Type the footnote text in the footnote area at the bottom of the page.
 
-Mobile app{lication}s are add-on programs for a variety of mobile devices,
-including cell phones and tablets.
+## Inserting Endnotes
+
+- Place insertion point after word where endnote is to be inserted.
+- Click the "References" tab and the "Insert Endnote" button.
+- Type the endnote text after the text at the end of the document.
+
+## Viewing Footnotes and Endnotes
 
-- Sometimes referred to as simply **apps**.
+- Use the "Next Footnote" button in the "Footnotes" group on the "References"
+  tab to move to the next footnote.
+- Use the "Show Notes" button to toggle between reference markers and note text.
+- Place pointer over reference marker to see text of footnote or endnote.
+
+## Customizing Footnotes and Endnotes
 
-## Apps
+- Change the number format, reference marker, start number, and numbering in
+  the "Footnote and Endnote" dialog box.
+- Choose where to position the footnote or endnote text.
+- Apply changes to whole document or specific section.
 
-- Music apps stream music, organize playlists. and recommend new artists.
-- Video apps are a favorite way to watch movie trailers and video blogs.
-- Social networking apps let you use your mobile device to share vacation
-  photos, check in at your favorite coffee shop, or invite friends
-  to a party.
-- Shopping apps make shopping online quick and easy. These apps will help you
-  find products, read customer reviews, and make
-  purchases.
-- Gaming apps are an enjoyable way to pass the time on a cell phone.
+## Modifying Footnote and Endnote Format
 
-# General-Purpose Applications
+- Format footnote or endnote text like regular text in the document.
+- Modify the Footnote or Endnote style to automatically update all notes.
 
-## Word Processors
+## Converting Footnotes and Endnotes
 
-Word processors create text-based documents and are one of the most flexible and
-widely used software tools.
+- Use the "Convert Notes" feature to convert between footnotes and endnotes.
+- Convert individual notes using the context menu.
 
-- Microsoft Word is the most widely used word processor. Other popular word
-  processors include Apple Pages and Google Docs.
+## Moving Footnotes and Endnotes
 
-## Presentation Software
+- Move notes like text in a document.
 
-**Presentation software** are programs that combine a variety of visual objects
-to create attractive, visually interesting presentations. They are excellent
-tools to communicate a message and to persuade people.
+## Deleting Footnotes and Endnotes
 
-## Spreadsheets
+- Always delete the reference marker in the body of the document to delete the
+  note.
+- Deleting the text in the footnote or endnote area will not delete the
+  reference marker.
 
-**Spreadsheets** organize, analyze, and graph numeric data such as budgets and
-financial reports.
+# SLO 3.4 Creating a Bibliography and Inserting Citations
 
-## Database Management Systems
+## Report Styles
 
-A **database** is a collection of related data. It is the electronic equivalent
-of a file cabinet.
+- Two most common report formats are MLA and APA
+    - Table 3-2 lists the general characteristics of each format
+    - Format can vary depending on the preference of the college or instructor
 
-A **database management system (DBMS)** or **database manager** is a program
-that sets up, or structures, a database.
+# SLO 3.5 - Inserting a Table of Contents
 
-- It also provides tools to enter, edit, and retrieve data from the database.
-- Three popular DBMS:
-    - Microsoft Access
-    - Apple FileMaker
-    - Oracle Database Express Edition
+## Creating a Bibliography and Inserting Citations
 
-# Specialized Applications
+- Word includes tools to create sources, insert citations, and create a
+  bibliography
+- The report style you select controls the formatting of sources and citations
+- Add a New Source:
+    - Gather bibliographic information and use the Add New Source feature in
+      Word to insert a citation and store source information
+- Insert a Citation:
+    - Choose from citations you have previously created
+- Insert a Placeholder:
+    - Temporarily marks a spot where a citation needs to be completed
+- Manage Sources:
+    - Use the Source Manager dialog box to edit sources, add information to
+      placeholders, create new sources, and copy sources
+- Edit Citations and Sources:
+    - Can be edited using drop-down list or context menu
+- Use the Researcher:
+    - Search for quotes, citable sources, and images
+    - Add citations and topic headings to the report
+- Insert a Bibliography:
+    - Word provides a variety of bibliography options
+    - Choose one of the built-in options to include in the table of contents
 
-General-purpose applications are widely used in nearly every profession,
-specialized applications are widely used within specific professions.
+## To insert a table of contents in a report:
 
-- Such as graphic programs and web authoring programs.
+1. Apply a heading style to each heading in the document.
+2. Place the insertion point before the first line of the report and press
+   Ctrl+Enter to insert a page break.
+3. Position the insertion point at the top of the new first page.
+4. Click the References tab.
+5. Click the Table of Contents button [Table of Contents group].
+6. Select a built-in table of contents to insert.
 
-## Graphic Programs
+## To insert a custom table of contents:
 
-Graphic programs are widely by professionals in the graphic arts profession.
-They include:
+1. Place the insertion point before the first line of your report and press
+   Ctrl+Enter to insert a page break.
+2. Position the insertion point at the top of the new first page.
+3. Type a title for the table of contents (if desired).
+4. Click the Table of Contents button [References tab, Table of Contents group].
+5. Select Custom Table of Contents.
+6. Customize the table of contents using the options in the Table of Contents
+   dialog box.
 
-- Video editors
-- Image editing programs
-- Illustration programs
-    - Bitmap images use pixels to represent images
-    - Vector images (vector illustrations) use geometric shapes or objects.
-        - Defined by mathematical equations
-- Desktop publishing programs (Page layout programs)
-    - low you to mix text and graphics to create publications of professional
-      quality.
+## To modify a table of contents:
 
-## Video Game Design Software
+1. Click anywhere in the table of contents.
+2. Click the Table of Contents button [References tab, Table of Contents group].
+3. Select Custom Table of Contents.
+4. Customize the table of contents.
+5. Click OK to replace the existing table of contents.
 
-Video game design software will help you organize your thoughts and guide you
-through the game design process, including character development and
-environmental design.
+## To update a table of contents:
 
-The video game design software behind some of the biggest games include:
+1. Click anywhere in the table of contents.
+2. Click the Update Table button [References tab, Table of Contents group].
+3. Select either Update page numbers only or Update entire table.
+4. Click OK to update the table of contents.
 
-- Unreal Game Engine
-- Unity development kit
-- GameMaker Studio 2
+## To remove a table of contents:
 
-## Web Authoring
+1. Click the Table of Contents button in the Table of Contents group on the
+   References tab.
+2. Select Remove Table of Contents.
 
-Creating a site is called **web authoring**.
+# SLO 3.6 - Inserting a Cover Page
 
-More specialized and powerful programs, called **web authoring programs** are
-typically used to create sophisticated commercial sites.
+## Inserting a Cover Page
 
-- Some web authoring programs are **WYSIWYG (What You See Is What You Get)**,
-  which means you can build a page without interacting directly with the HTML 
-  code.
+- Reports frequently include a title page as the cover or introduction.
+- Word provides a variety of cover page options.
 
-Widely used web authoring programs include:
+## Insert a Built-In Cover Page
 
-- Adobe Dreamweaver
-- Froala 4.0
+1. To insert a cover page, click the Cover Page button in the Pages group on the
+   Insert tab.
+2. Select one of the built-in cover pages from the drop-down list.
+3. Additional custom cover pages are available on Office.com.
 
-## Other Specialized Applications
+## Customize Cover Page Content
 
-- Specialized applications include accounting, personal finance, and project
-  management
-- Accounting applications: Intuit QuickBooks
-  - Help companies record and report financial operations
-- Personal finance applications: Quicken Starter Edition
-  - Help individuals track personal finances and investments
-- Project management software: Microsoft Project
-  - Widely used in business to coordinate and plan complicated projects
+1. The built-in cover pages include graphics, text boxes, and Word fields.
+2. Customize the content of the fields, delete unwanted fields, and modify the
+   graphics and text boxes on the cover page.
+3. The theme of the document controls the format of cover pages.
 
-# Software Suites
+## Customize Document Property Content
 
-A **software suite is a collection of separate application programs bundled
-together and made available as a group. Four types of suites are:
+- If you add information to the document properties, Word automatically
+  populates the document properties fields in the cover page.
+- To customize document properties:
+    1. Click the File tab and select Info.
+    2. Show All Properties and add or modify document property content.
 
-- Office suites
-- Cloud suites
-- Specialized suites
-- Utility suites
+## Add or Remove Document Property Fields
 
-## Office Suites
+- To add a document property field:
+    1. Position the insertion point where you want to insert the field.
+    2. Click the Quick Parts button on the Insert tab.
+    3. Choose Document Property and select a field from the drop-down list.
+- To remove a document property field:
+    - Click the field handle to select it and press Delete.
 
-- Office suites contain general-purpose application programs.
-- Used in business situations.
-- Productivity suites commonly include:
-  - Word processor
-  - Spreadsheet
-  - Database manager
-  - Presentation application
-- Examples:
-  - Microsoft Office
-  - Apple iWork
+## Customize Content Control Fields
 
-## Cloud Computing
+- To insert custom content in a content control field:
+    - Click the field and type the text.
+- To remove a content control field:
+    - Click the field handle to select it and press Delete.
 
-- Stored on a server on the Internet.
-- Accessible anywhere with Internet access.
-- Documents can be stored online for easy sharing and collaboration.
-- Dependent on server availability.
-- Importance of having backup copies and desktop office application.
-- Examples:
-  - Google Workspace
-  - Microsoft 365
-  - Apple Works
+## Remove a Cover Page
 
-## Specialized and Utility Suites
-
-### Specialized Suites
-
-- Focus on specific applications.
-- Examples:
-  - Adobe Creative Cloud (graphics suite)
-  - Magix's Sound Forge Pro 15 (recording, audio editing, and mastering suite)
-  - Moneytree Software’s TOTAL Planning Suite (financial planning suite)
-
-### Utility Suites
-
-- Variety of programs designed to make computing easier and safer.
-- Examples:
-  - iolo’s System Mechanic Ultimate Defence
-  - AVG TuneUp
-
-# Careers in IT
-
-## Software Engineering
-
-Software engineers analyze users' needs and create application software.
-Software engineers typically have experience in programming but focus on the
-design and development of programs using the principles of mathematics and
-engineering.
-
-Requirements:
-- Bachelor's degree or advanced specialized associate's degree in computer
-  science or information systems.
-- Extensive knowledge of computers and technology.
-- Internships for experience.
-- Advantage for those with specific experience with web applications.
-- Good communication and analytical skills.
-
-Salary:
-- Annual salary range: $63,000 to $148,000.
-- Starting salary dependent on experience and type of software being developed.
-- Opportunities for advanced careers in IT for experienced software engineers.
+- To remove a cover page:
+    - Click the Cover Page button on the Insert tab and select Remove Current
+      Cover Page.
+    - Word deletes the entire contents of the cover page and removes the page
+      break.
+
+# SLO 3.7 - Using Advanced Headers and Footers
+
+## Headers and Footers
+
+- Used to include page numbers and document information at top/bottom of each
+  page in report/multipage document
+- Headers appear at top, footers appear at bottom
+- Automatically display on subsequent pages
+- Can automatically insert page numbers and add custom content such as text,
+  document property fields, date, or borders
+
+## Page and Section Breaks
+
+- Used for multipage documents to control page endings or special formatting in
+  different sections
+- Page break controls where one page ends and another begins
+- Use Next Page section break for special document layout formatting on a whole
+  page or multiple pages
+- Use Continuous section break for special formatting to a section of the
+  document
+- Do not use section break to control page endings
+
+## Built-In Headers, Footers, and Page Numbers
+
+- Word provides built-in headers, footers, and page numbering options to insert
+  and customize
+- Can insert built-in header and footer content with header/footer open or while
+  in main document
+- Many built-in headers/footers contain document property fields or content
+  control fields
+
+## Customize Header and Footer Content
+
+- Can type text or insert/delete content control fields
+- Can format header/footer text by applying font formatting and borders,
+  inserting graphics, and modifying/setting tabs for alignment
+
+## Different First Page Header and Footer
+
+- Option to have page number or header/footer content not display on first page
+  but display on subsequent pages
+- Can choose to leave first page header/footer blank or insert different content
+
+## Different Odd and Even Pages
+
+- Option to have different odd and even pages header/footer content
+- Best to insert header/footer content on first page and then make any desired
+  header/footer option changes
+
+## Link to Previous Header or Footer
+
+- By default, headers/footers are linked to previous headers/footers
+- Can break this link to format header/footer content in one section
+  independently of header/footer in another section
+
+## Format Page Numbers
+
+- Can change page number format and starting page number
+- Insert next page section break between sections to format page numbering
+  differently for each section
+
+## Navigate between Headers and Footers
+
+- Word provides buttons to navigate header/footer areas: Go to Header, Go to
+  Footer, Previous, and Next
+
+## Remove a Header or Footer
+
+- Open header/footer and manually delete content to remove header/footer
+- All linked header/footer content is also removed
+- Word can also automatically remove header/footer from document.
+
+# Chapter Summary
+
+- **3.1.** Insert, review, edit, and customize comments (p. W3-142).
+- Use **comments** to insert a note or provide feedback in a document. The
+  content and format of the document does not change.
+- Comments are numbered sequentially in a document and are associated
+  with an **author** or **reviewer** using a Microsoft Office **username** and
+  **initials**, which is customized in the Word Options dialog box.
+- Multiple reviewers can add comments to a document.
+- Users can add, edit, or delete comments. Comments appear to the
+  right of the document in the **Markup area**.
+- Use **modern comments**, also referred to as **@mentions**, to mention a
+  person in a comment.
+- Use **Ink Comment** to insert a handwritten comment using a stylus or
+  finger on a touch-screen computer.
+- Use the **Next** and **Previous** buttons to review comments in a document.
+- When you place your pointer on a comment, a tag provides details
+  about the user name and date and time of the comment.
+- **Reply** to a comment, **Resolve** a comment, or **Reopen** a comment.
+- Delete comments individually or delete all comments in the document.
+- **3.2.** Modify and review a document using Track Changes and share an
+  online document (p. W3-146).
+- **Track Changes** is a collaboration tool that enables reviewers to make
+  and track changes in a document.
+- Word provides four different **Display for Review** views to display
+  changes in a document: **All Markup**, **Simple Markup**, **No Markup**, and
+  **Original**.
+- When Track Changes is on, each change is attributed to a reviewer
+  and his or her user name.
+- Review changes using the **Previous** and **Next** buttons.
+- Accept or reject individual changes in the document or accept or
+  reject all the changes in the document.
+- The **Reviewing pane** displays vertically on the left side of the
+  document or horizontally at the bottom of the document and shows all the
+  changes in the document.
+- Customize which markup displays in the document.
+- Use the Track Changes Options dialog box to customize how tracked
+  changes appear in a document.
+- Share online files with others. More than one user can edit an
+  online file at the same time, which enables **real-time collaboration** on
+  documents.
+- The **Send link** window provides different options for sharing an
+  online document.
+- **3.3.** Insert and edit footnotes and endnotes in a document (p.
+  W3-153).
+- Add **footnotes** and **endnotes** to include additional information or
+  reference sources.
+- Footnotes appear at the bottom of the page, and endnotes appear at
+  the end of the document.
+- A **reference marker** is a number, letter, or symbol that indicates a
+  footnote or endnote in the body of the document.
+- Change the location, number format, and starting number for
+  footnotes and endnotes in the Footnote and Endnote dialog box.
+- Word styles control the format of footnotes and endnotes. Edit
+  styles to modify how your footnote and endnote text appears in the
+  document.
+- Convert footnotes to endnotes or endnotes to footnotes using the
+  **Convert Notes** dialog box.
+- Move footnotes and endnotes using the drag and drop method or using
+  cut and paste.
+- When you delete a footnote or endnote reference marker in the body
+  of the document, the associated footnote and endnote text is also
+  deleted. Footnotes and endnotes automatically renumber if one is deleted
+  or inserted.
+- **3.4.** Create a bibliography with properly formatted sources and
+  insert citations into a document (p. W3-157).
+- A **source** is the complete bibliographic information for a reference
+  (book, web page, journal article) used in a report.
+- Use the **Add New Source** feature to a citation in your report and
+  customize the source information.
+- A **citation** is the abbreviated source information used in the body of
+  a report.
+- Insert a **bibliography** or **works cited** page to list the sources in
+  your document.
+- The **bibliography style** controls the format of the sources on the
+  bibliography page and citations in the body of the document.
+- Add a **placeholder** to temporarily mark a citation in the body of a
+  report.
+- Use the **Source Manager** dialog box to create and edit sources, edit
+  placeholders, and view available sources.
+- Use the **Researcher** to search for quotes, citable sources, and images
+  about a topic and to display information from journals and websites in
+  the Researcher pane.
+- **3.5.** Create and edit a table of contents based on headings in a
+  document (p. W3-169).
+- Word can automatically generate a **table of contents** for a document.
+- **Heading styles** (Heading 1, Heading 2, etc.) determine the content
+  for a table of contents.
+- Use built-in table of contents formats or customize the format of
+  the table of contents.
+- Use the Table of Contents dialog box to customize the format and the
+  number of levels displayed in the table of contents.
+- When document headings or pagination change, update the table of
+  contents to reflect the changes.
+- **3.6.** Insert a cover page and modify content and content control
+  fields (p. W3-173).
+- Word provides a variety of built-in **cover pages** available to add to
+  your documents.
+- A cover page has graphics, colors, text boxes, and Word fields that
+  you can customize. The document theme controls the colors and fonts on
+  the cover page.
+- Use **document property** and **content control fields** to display
+  information on the cover page. Customize or delete this content.
+- **3.7.** Apply and customize headers and footers in a multipage document
+  (p. W3-175).
+- **Headers** and **footers** provide information and page numbers in a
+  document. Headers are located at the top, and footers are located at the
+  bottom of a document.
+- **Page** and **section breaks** control pagination and page numbering in a
+  document.
+- Insert a variety of built-in headers, footers, and page numbers into
+  a document.
+- Customize content and page numbering in headers and footers.
+- **Different first page** headers and footers enable you to include
+  different information on the first page of a document.
+- Use **odd and even page headers** and footers to display different
+  information on odd and even pages in a document.
+- Change the page number format and starting page number in the Page
+  Number Format dialog box.
+- Use the **Go to Header**, **Go to Footer**, **Previous**, and **Next**
+  buttons to navigate while in the header or footer areas.
+
+# Q & A
+
+1. You need to insert a footnote to cite a quotation in your research paper, use
+   the **References** _Ribbon_ tab.
+2. The standard footnote reference marker format is **Superscript**.
+3. MLA and APA are the two most common report formats. APA stands for **American
+   Psychological Association**.
+4. You need to insert a citation, but you don’t yet have all of the source
+   information. You should mark that spot in the document with a
+   **Placeholder**.
+5. You want to create a built-in cover page for your report, you go to the
+   **_Insert_ tab**
+6. The design of your cover page is controlled by the **Theme**.
+7. You can customize all of your document's properties in the **_Backstage_
+   view**.
+8. Every heading that you want to include in your table of contents must have
+   **Style**.
+9. Your table of contents needs to be changed because you have added more
+   information to the report. When you select the Update Table button
+   [References tab, Table of Contents group], you can choose to update the
+   entire table or just the **Page Numbers**.
+10. Once you have created your sources and inserted citations in your report,
+    the next step is to create a **bibliography**.
+11. The dots that run from a table of contents entry to the page number are
+    called a **Tab leader**.
+12. Press **F9** to update a bibliography field.
+13. The entries you select for your table of contents are based on your **Heading Styles**.
+14. Word inserts a table of contents **at the insertion point**.
+15. When you insert a comment in a document, the comment appears in a **Balloon**.

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" id="data-uuid-6e260e6c14ef42bf97d8aa78d17c6635" data-enumeration="" data-designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="./file_files/blk-base-page.css" rel="stylesheet" type="text/css" />
+        <link type="text/css" rel="stylesheet" href="./file_files/dpg-custom.css" />
+        <title>Solid-State Storage</title>
+    </head>
+    <body>
+        <section class="mhhe-blk-header" id="data-uuid-1113d7d87223432ea1089649dc9610fd">
+            <header id="data-uuid-893889c2aa2f4b60a654532e25dcdf9e">
+                <h1 class="rule" id="data-uuid-0c0e0b324aa04ec290642fb11f4cabdb">Solid-State Storage</h1>
+            </header>
+            <p id="data-uuid-b5791256279f47e897696a6f9cd79027">Solid-state storage devices provide access to <a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-Flash-memory" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="Flash memory">flash memory</dfn></a>, commonly known as <a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-Solid-state-storage" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="Solid-state storage">solid-state</dfn></a> <a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-Solid-state-storage" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="Solid-state storage">storage.</dfn></a> As we discussed in <span class="mhhe-link dpg-bar--non_break"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter06/reader_00.xhtml#data-uuid-c4471df1ef3d4cd6a3494b263f8ddbee">Chapter 5</a></span>, flash memory offers a combination of features of RAM and ROM. Like RAM, it can be updated, and like ROM it does not lose information when a computer is turned off. Flash memory is a little slower than traditional memory but much faster than other secondary storage drives.</p>
+            <section role="region" aria-label="environment" class="sidenote-7 environment" id="data-uuid-e93e7464be454054a5c38c7f56a02108">
+                <header id="data-uuid-13b32978069c45769b748b887a94fb06">
+                    <h4 id="data-uuid-c4b072caeabd43e68e91c81a17592feb">community</h4>
+                </header>
+                <p id="data-uuid-39b5ee474ba94084a6ea7b9a24818094">Criminals often target
+                    communities with malware and
+                    viruses by using infected USB
+                    flash drives. These infected
+                    drives are handed out for free at
+                    conventions, “accidentally” left
+                    behind at the library, or simply
+                    dropped on the ground. When
+                    the victim finds the drive and
+                    plugs it into their computer, the
+                    drive automatically installs
+                    malware and viruses. Many
+                    believe you should never plug in
+                    an unknown USB drive. Others
+                    suggest the risks are overblown.
+                    What do you think?</p>
+            </section>
+            <section class="mhhe-blk-header" id="data-uuid-a6b29fd71f764ded9d9f863b5d351d1f">
+                <header id="data-uuid-02c87c67a5e440239e2098925473788d">
+                    <h2 id="data-uuid-f811ea4dc95840be8e1340477201abfa">Solid-State Drives</h2>
+                </header>
+                <p id="data-uuid-0a0e0ff2cd7a4c389745854f7f2cf0e1"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-Solid-state-drive-SSD" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="Solid-state drive (SSD)">Solid-state drives (SSDs)</dfn></a> store and retrieve data and information much in the same manner as RAM. As we discussed in <span class="mhhe-link dpg-bar--non_break"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter06/reader_00.xhtml#data-uuid-c4471df1ef3d4cd6a3494b263f8ddbee">Chapter 5</a></span>, characters are represented by positive (+) and negative (−) charges using the ASCII, EBCDIC, or Unicode binary codes. For example, the letter A would require a series of eight charges. (See <span class="mhhe-link dpg-bar--non_break"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter08/reader_03.xhtml#data-uuid-ae9873b631fc40ab81eaafc125ee6f4d">Figure 7-2</a></span>.)</p>
+                <figure class="mhe-center-container mhe-fifty-container mhe-layout-pattern mhe-layout-category-containers" id="data-uuid-ae9873b631fc40ab81eaafc125ee6f4d">
+                    <img alt="A binary representation of 0 1 0 0 0 0 0 1. This binary code represents the letter A." src="./file_files/ole36781_0702.png" id="data-uuid-3842753f197c415e9decdfe8ebdce118" />
+                    <figcaption>
+                        <p id="data-uuid-f3a8283431cc491b93c7a1dbb6b070d5"><span class="number">Figure 7-2</span> <span class="label">Charges representing the letter A</span></p>
+                    </figcaption>
+                </figure>
+                <p id="data-uuid-df0b05f2cefd407ab30dd019125492f1">SSDs are fast and durable and require little power, making them popular for cell phones, tablets, and laptops. SSDs are common on mobile devices and are gaining popularity on gaming computers and desktops due to their speed and power efficiency.</p>
+                <p id="data-uuid-ee4b3254ae7341739c5caf67d9c12849">These drives can provide internal storage or be located inside the system unit. (See <span class="mhhe-link dpg-bar--non_break"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter08/reader_03.xhtml#data-uuid-58f75baf377a4bbbbb7da953eaa69c48">Figure 7-3</a></span>.) Or SSDs can provide external storage.</p>
+                <figure class="mhe-center-container mhe-fifty-container mhe-layout-pattern mhe-layout-category-containers" id="data-uuid-58f75baf377a4bbbbb7da953eaa69c48">
+                    <img alt="" src="./file_files/ole36781_0703.png" id="data-uuid-0dbd4cda9456408fa39722550462c2de" />
+                    <figcaption>
+                        <p id="data-uuid-4ac14ee0b9ee46f69d434768875c4ba4"><span class="number">Figure 7-3</span> <span class="label">Internal solid-state drive</span></p>
+                        <p class="source" id="data-uuid-b40afbe05eb644a1a89602f3c4a17d00">monte_a/Shutterstock</p>
+                    </figcaption>
+                </figure>
+                <span id="Page+168" class="page-number" epub:type="pagebreak" role="doc-pagebreak">Page 168</span>
+                <section role="region" aria-label="tips" class="sidenote-7 tips" id="data-uuid-d20ca30058fc46b4accbef3470e44d23">
+                    <header id="data-uuid-359e9d8aa572427d850e65528530540f">
+                        <h4 id="data-uuid-fcb3c013c70d4d0599546d76d4331407">tips</h4>
+                    </header>
+                    <p id="data-uuid-05e1f079daa7429a8b9d7d4e2cafdbde"><strong>Have you ever accidentally deleted or lost important files from
+                        your flash drive? Do you have a USB flash drive that is no
+                        longer being recognized by your computer? Here are a few suggestions
+                        that might help:</strong></p>
+                    <ol class="list-step" id="data-uuid-a48b04094a6a4bf1a497c4c08d7f48b3">
+                        <li id="data-uuid-ba2ee33bc5054a8b88d3037b6caeef00">
+                            <p id="data-uuid-3d72ea2633d6499ca9f8948a94964ea4"><span class="step-title"><strong>1</strong></span> <span class="step-info"> <strong>Recovery/undelete software.</strong> If you accidentally deleted files from a flash
+                                drive, it is unlikely that you can recover them using your operating system or
+                                searching through your recycle bin. Fortunately, there are several recovery
+                                (or undelete) programs that might help, and some are even free. For example,
+                                two free programs are <i>Disk Drill</i> and <i>Recuva</i>. These programs will scan your
+                                flash drives for deleted files and offer you a chance to recover the ones you
+                                want back.</span></p>
+                        </li>
+                        <li id="data-uuid-6dc4332b6a1c403a8e85056099657318">
+                            <p id="data-uuid-410d6dd236d745919a09b8f5e9bd74da"><span class="step-title"><strong>2</strong></span> <span class="step-info"> <strong>Testing USB ports.</strong> If your computer does not recognize your USB flash drive,
+                                there could be a problem with your USB port. Try plugging another device into
+                                that same port to see if it works. If this device does not work, then your
+                                computer’s USB is most likely defective and needs to be replaced. If the device
+                                works, then most likely your USB flash drive is damaged and you should try the
+                                professional recovery services discussed in the next step.</span></p>
+                        </li>
+                        <li id="data-uuid-117affd7649a4c0c946679022482187e">
+                            <p id="data-uuid-2546e71380e142dc825f9928706f1612"><span class="step-title"><strong>3</strong></span> <span class="step-info"> <strong>Professional recovery services.</strong> For damaged flash drives, there is a
+                                possibility that your data could be recovered by several companies that are
+                                dedicated to data recovery. Although the fees are high, they can rescue data
+                                from the actual memory chip, even if the drive or supporting circuits are
+                                damaged.</span></p>
+                        </li>
+                    </ol>
+                </section>
+            </section>
+            <section class="mhhe-blk-header" id="data-uuid-c875747f65b6420e930406dc89c20cd5">
+                <header id="data-uuid-f0cae6d50931441c9bccefc3aedb70a8">
+                    <h2 id="data-uuid-cabb46107c5944edb985e51bbf693228">Flash Memory Cards</h2>
+                </header>
+                <p id="data-uuid-bfe4c8c2a86142fc929018e22f5194b1"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-Flash-memory-card" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="Flash memory card">Flash memory cards</dfn></a> are small solid-state storage devices widely used in portable devices. Some of the cards are used within devices such as cell phones, laptops, and GPS navigation systems. Other cards provide external or removable storage. Flash memory cards are commonly used with digital cameras and cell phones to expand their internal storage. (See <span class="mhhe-link dpg-bar--non_break"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter08/reader_03.xhtml#data-uuid-764f5e80d2e341079a94fcf8b2ae6bbb">Figure 7-4</a></span>.)</p>
+                <figure class="mhe-center-container mhe-fourty-container mhe-layout-pattern mhe-layout-category-containers" id="data-uuid-764f5e80d2e341079a94fcf8b2ae6bbb">
+                    <img alt="A photo of someone inserting a thin, rectangular card into a camera." src="./file_files/ole36781_0704.png" id="data-uuid-69c510c48668479186a5cee4ece4bf88" />
+                    <figcaption>
+                        <p id="data-uuid-c9f7aa6b05d741c58d7789b583acb204"><span class="number">Figure 7-4</span> <span class="label">Flash memory card</span></p>
+                        <p class="source" id="data-uuid-fed78965c6ae49549e09090b86793b29">Evgeniy Medvedev/Shutterstock</p>
+                    </figcaption>
+                </figure>
+            </section>
+            <section class="mhhe-blk-header" id="data-uuid-d47ba008c4634eacb16f4b9a00240195">
+                <header id="data-uuid-23d6559d077e4fd48fca7392eb895f3e">
+                    <h2 id="data-uuid-340992e698684f5c9b90c0476476b874">USB Flash Drives</h2>
+                </header>
+                <p id="data-uuid-5aae772fac5246329072b7b6974ac871"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-USB-flash-drive" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="USB flash drive">USB flash drives,</dfn></a> or simply <a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml#key-Flash-drive" epub:type="glossref" role="doc-glossref"><dfn xmlns="http://www.w3.org/1999/xhtml" title="Flash drive">flash drives,</dfn></a> are so compact that they can be transported on a key ring. These small, solid-state drives conveniently connect directly to a computer’s USB port to transfer files and can have capacities ranging from 1 GB to 2 TB and higher, with a broad price range to match. (See <span class="mhhe-link dpg-bar--non_break"><a href="https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter08/reader_03.xhtml#data-uuid-3430340bd5974ab1952e53ff6f62e466">Figure 7-5</a></span>.) Due to their convenient size and large capacities, flash drives have become a very popular option for transporting data and information among computers, specialty devices, and the Internet.</p>
+                <figure class="mhe-center-container mhe-fourty-container mhe-layout-pattern mhe-layout-category-containers" id="data-uuid-3430340bd5974ab1952e53ff6f62e466">
+                    <img alt="A photo of a U S B drive inserted into a laptop port." src="./file_files/ole36781_0705.png" id="data-uuid-18b07522beb54ebc897a968ba82f3b41" />
+                    <figcaption>
+                        <p id="data-uuid-1d96675275d9491f9db36a1f35bf33c0"><span class="number">Figure 7-5</span> <span class="label">USB flash drive</span></p>
+                        <p class="source" id="data-uuid-aca88d3584ce4c68a4d148b406ad2a13">Pheelings media/Shutterstock</p>
+                    </figcaption>
+                </figure>
+                <section role="region" aria-label="Concept Check" class="sidenote-icon1 concept-check" id="data-uuid-2c8c251440e5422c977b68241900622a">
+                    <header id="data-uuid-953a0cfdc49d48c2b7742c148d0c26a1">
+                        <h4 id="data-uuid-76e2bb20efb54dc1af34c582527d7216"><img alt="" class="icon check" role="presentation" src="./file_files/concept_check.png" id="data-uuid-7281de98cacb4ae280cd2ec6147da118" /> concept check</h4>
+                    </header>
+                    <ul class="list-image-checkbox" id="data-uuid-23581187cd04413f8be09935b631a21f">
+                        <li id="data-uuid-44d272950408438ea7f9a24f993f0c14">
+                            <p id="data-uuid-193be41b521a411ab48218ada171728e">What is solid-state storage? How is it different from RAM? ROM?</p>
+                        </li>
+                        <li id="data-uuid-e3d2003b99f44b62b2354143f36114a9">
+                            <p id="data-uuid-07792e96ec29433aabda3fe9b9ed97da">What are solid-state drives? What are they used for?</p>
+                        </li>
+                        <li id="data-uuid-db6d18efde0b494ebe44c2760fa4b2c1">
+                            <p id="data-uuid-3bd57d830f3a473a866b8a6ad54d759f">What are flash memory cards? What are USB flash drives? What are they used for?</p>
+                        </li>
+                    </ul>
+                </section>
+            </section>
+        </section>
+    <script type="text/javascript" src="./file_files/habitat_platform.js" /><a class="hss-abp-subscribe" href="abp:subscribe?location=https://www.joinhoney.com/whitelist/honey-smart-shopping.txt&amp;title=Honey-Smart-Shopping" style="position: fixed; display: block; opacity: 0; z-index: 2147483647;" /></body>
+</html>

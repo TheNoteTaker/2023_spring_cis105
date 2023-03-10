@@ -970,7 +970,7 @@ column widths as needed.
 
 # Chapter Summary
 
-- **3.1** Create Excel chart objects and chart sheets (p. E3-203).
+- **3.1** Create Excel chart objects and chart sheets.
 - A **chart** is a visual representation of worksheet data.
 - A **chart object** is an item or element in a worksheet.
 - A **chart sheet** is an Excel chart on its own tab in the workbook.
@@ -985,8 +985,7 @@ column widths as needed.
   Design tab.
 - The **Quick Analysis** tool includes a command group for charts, and it
   appears when the selected source data is contiguous.
-- **3.2** Design charts by changing the layout, style, colors, and type
-  (p. E3-208).
+- **3.2** Design charts by changing the layout, style, colors, and type.
     - A **chart layout** is a set of elements and their locations in a chart.
     - The Quick Layout button [Chart Design tab, Chart Layouts group]
       includes predefined layouts for the current chart type.
@@ -1006,7 +1005,7 @@ column widths as needed.
     - Print a chart object with its worksheet data or on its own sheet.
     - A chart sheet prints on its own page in landscape orientation.
 - **3.3** Manage chart elements including titles, data labels,
-  gridlines, and trendlines (p. E3-218).
+  gridlines, and trendlines.
     - Each **chart element** is a separate object in the chart.
     - Chart elements include chart and axes titles, data labels, **legends**,
       **gridlines**, and more.
@@ -1026,8 +1025,7 @@ column widths as needed.
       chart Format tab.
     - Some formats can also be applied to a selected chart element from
       the Home tab.
-- **3.5** Enhance a chart with icons, shapes, WordArt, and Alt Text (p.
-  E3-231).
+- **3.5** Enhance a chart with icons, shapes, WordArt, and Alt Text.
     - For chart shapes that have a fill color, you can use an icon or
       image as fill.
     - Icons and images used as fill can be from your own or online
@@ -1045,7 +1043,7 @@ column widths as needed.
     - Add **Alt Text** to a chart to briefly describe its contents and purpose
       for improved accessibility.
     - Alt Text is read aloud by a **screen reader** such as Windows Narrator.
-- **3.6** Build pie charts, line charts, and combo charts (p. E3-240).
+- **3.6** Build pie charts, line charts, and combo charts.
     - A **pie chart** has one data series and shows each data point as a slice
       of the pie.
     - A pie chart does not have axes, but it does have options to rotate
@@ -1057,11 +1055,11 @@ column widths as needed.
       or contrast differences in data or values.
     - Format a combo chart to show a secondary axis when values are widely
       different or use different scales.
-- **3.7** Create specialty charts (p. E3-247).
+- **3.7** Create specialty charts.
     - Specialty charts include hierarchy, statistical, funnel, scatter
       charts, and more.
-    - A **sunburst chart** has one data series that is grouped in a **hierarchy
-      **.
+    - A **sunburst chart** has one data series that is grouped in a
+      **hierarchy**.
     - A sunburst chart illustrates the relationship among the hierarchies
       in a pie-like chart with concentric rings.
     - A **map chart** is a simple display of high-level geographic data such
@@ -1076,11 +1074,11 @@ column widths as needed.
     - A waterfall chart resembles a column chart and has category and
       value axes.
     - Place a specialty chart as an object or on a separate sheet.
-- **3.8** Insert and format sparklines in a worksheet (p. E3-252).
+- **3.8** Insert and format sparklines in a worksheet.
     - A sparkline is a miniature chart in a cell or range of cells in the
       worksheet.
-    - Three **sparkline** types are available: **Line, Column**, and **Win/Loss
-      **.
+    - Three **sparkline** types are available: **Line, Column**, and
+      **Win/Loss**.
     - When inserted in a range of cells, sparklines are grouped and can be
       ungrouped.
     - The Sparkline tab is visible when a sparkline or its group is

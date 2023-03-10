@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import re
 
 
+# TODO: Add class to extract the notes page from the iframe of the reader page
 class NotesPage:
     BASE_RE = r"http[s]?://(?:www.)?epub-factory[^\./]*(?:\.[^/]+)+(?:/[^/]+)+"
     EXT_RE = ".xhtml"

@@ -4,8 +4,6 @@
 * [Module 1 - Information Technology, The Internet, and You](#module-1---information-technology-the-internet-and-you)
 * [General Notes](#general-notes)
 * [Information Technology, The Internet, and You](#information-technology-the-internet-and-you)
-  * [Dictionary](#dictionary)
-  * [Information Systems](#information-systems)
   * [Software](#software)
     * [System Software](#system-software)
     * [Application Software](#application-software)

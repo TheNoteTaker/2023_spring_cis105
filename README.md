@@ -1,0 +1,25 @@
+# Notes for CIS105
+
+- **Module 1**
+  - [Connect Notes - Information Technology, The Internet, and You](modules/module_01/connect_notes.md)
+  - [Simnet Notes - Word: Creating and Editing Documents](modules/module_01/simnet_notes.md)
+- **Module 2**
+  - [Connect Notes - The Internet and the Web](modules/module_02/connect_notes.md)
+  - [Simnet Notes - Word: Formatting and Customizing Documents](modules/module_02/simnet_notes.md)
+- **Module 3**
+  - [Connect Notes - Application Software](modules/module_03/connect_notes.md)
+  - [Simnet Notes - Word: Collaborating With Others and Working With Reports](modules/module_03/simnet_notes.md)
+- **Module 4**
+  - [Connect Notes - System Software](modules/module_04/connect_notes.md)
+  - [Simnet Notes - Word: Tables, Columns, and Graphics](modules/module_04/simnet_notes.md)
+- **Module 5**
+  - [Connect Notes - The System Unit](modules/module_05/connect_notes.md)
+- **Module 6**
+  - [Connect Notes - Input and Output](modules/module_06/connect_notes.md)
+  - [Simnet Notes - Excel: Creating and Editing Workbooks](modules/module_06/simnet_notes.md)
+- **Module 7**
+  - [Connect Notes - Secondary Storage](modules/module_07/connect_notes.md)
+  - [Simnet Notes - Excel: Working with Formulas and Functions](modules/module_07/simnet_notes.md)
+- **Module 8**
+  - [Connect Notes - Communications and Network](modules/module_08/connect_notes.md)
+  - [Simnet Notes - Excel: Creating and Editing Charts](modules/module_08/simnet_notes.md)

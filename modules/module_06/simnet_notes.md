@@ -1,5 +1,126 @@
 # Excel - Chapter 1 - Creating and Editing Workbooks
 
+<!-- TOC -->
+* [Excel - Chapter 1 - Creating and Editing Workbooks](#excel---chapter-1---creating-and-editing-workbooks)
+* [SLO 1.1: Creating, Saving, and Opening a Workbook](#slo-11--creating-saving-and-opening-a-workbook)
+* [Create a New Workbook](#create-a-new-workbook)
+* [Save and Close a Workbook](#save-and-close-a-workbook)
+* [Open a Workbook](#open-a-workbook)
+* [Save a Workbook with a Different File Name](#save-a-workbook-with-a-different-file-name)
+* [Workbook File Formats](#workbook-file-formats)
+* [SLO 1.2 - Entering and Editing Data](#slo-12---entering-and-editing-data)
+* [Worksheet Overview](#worksheet-overview)
+* [Display Options](#display-options)
+* [Entering Data](#entering-data)
+  * [How to Enter Data into a Workbook](#how-to-enter-data-into-a-workbook)
+* [Editing Cell Contents](#editing-cell-contents)
+  * [How to Edit Cell Contents](#how-to-edit-cell-contents)
+* [Clearing Cell Contents](#clearing-cell-contents)
+  * [How to Clear Cell Contents](#how-to-clear-cell-contents)
+* [Aligning and Indenting Text](#aligning-and-indenting-text)
+  * [How to Align and Indent Text](#how-to-align-and-indent-text)
+* [Selecting Cells](#selecting-cells)
+* [Using the Fill Handle](#using-the-fill-handle)
+  * [How to Use the Fill Handle to Create a Series](#how-to-use-the-fill-handle-to-create-a-series)
+* [AutoComplete and Pick From Drop-down List](#autocomplete-and-pick-from-drop-down-list)
+  * [How to Use AutoComplete and Pick From Drop-down List](#how-to-use-autocomplete-and-pick-from-drop-down-list)
+* [Cut, Copy, and Paste Cell Contents](#cut-copy-and-paste-cell-contents)
+  * [Cut Cell Contents](#cut-cell-contents)
+    * [Move or Cut Cell Contents](#move-or-cut-cell-contents)
+    * [MORE INFO](#more-info)
+  * [Copy Cell Contents](#copy-cell-contents)
+    * [MORE INFO](#more-info-1)
+  * [Paste Options](#paste-options)
+    * [Paste Options Table](#paste-options-table)
+    * [How to Use an Operation with Paste Special Command](#how-to-use-an-operation-with-paste-special-command)
+* [SLO 1.3 - Using Functions](#slo-13---using-functions)
+  * [The AutoSum Button](#the-autosum-button)
+  * [How to Use the`SUM`Function](#how-to-use-the-sum-function)
+  * [Function Syntax](#function-syntax)
+  * [Copy a Function](#copy-a-function)
+  * [Edit an Argument](#edit-an-argument)
+  * [How to Resize an Argument Range](#how-to-resize-an-argument-range)
+    * [`AVERAGE`Function](#average-function)
+  * [How to Use the`AVERAGE`Function](#how-to-use-the-average-function)
+    * [`MAX`and`MIN`Functions](#max-and-min-functions)
+  * [How to Use the`MAX`Function with Nonadjacent Cells](#how-to-use-the-max-function-with-nonadjacent-cells)
+* [SLO 1.4 - Formatting Cell Data](#slo-14---formatting-cell-data)
+* [Formatting Cell Data](#formatting-cell-data)
+  * [Font Face, Size, Style, and Color](#font-face-size-style-and-color)
+    * [HOW TO: Customize Font, Style, Font Size, and Font Color](#how-to--customize-font-style-font-size-and-font-color)
+  * [The Format Painter](#the-format-painter)
+    * [HOW TO: Use the Format Painter](#how-to--use-the-format-painter)
+  * [Number Formats](#number-formats)
+    * [HOW TO: Format Numbers](#how-to--format-numbers)
+* [Custom Borders and Fill](#custom-borders-and-fill)
+  * [Add Custom Borders](#add-custom-borders)
+  * [Use Fill Choices](#use-fill-choices)
+* [Merge Cells](#merge-cells)
+  * [Merge Cells Horizontally](#merge-cells-horizontally)
+  * [Merge Cells Vertically](#merge-cells-vertically)
+* [Alignment Group](#alignment-group)
+  * [Fine-tuning Label Appearance](#fine-tuning-label-appearance)
+  * [Change Orientation](#change-orientation)
+  * [Center Across Selection](#center-across-selection)
+* [Wrap Text](#wrap-text)
+  * [Wrap Text in a Cell](#wrap-text-in-a-cell)
+* [Cell Styles](#cell-styles)
+  * [Apply Cell Styles](#apply-cell-styles)
+  * [What is a Cell Style?](#what-is-a-cell-style)
+* [Workbook Themes](#workbook-themes)
+  * [Change the Workbook Theme](#change-the-workbook-theme)
+  * [What is a Workbook Theme?](#what-is-a-workbook-theme)
+  * [Apply a Custom Theme](#apply-a-custom-theme)
+* [SLO 1.5 - Modifying Columns, Rows, and Sheets](#slo-15---modifying-columns-rows-and-sheets)
+  * [Adjust Column Width and Row Height](#adjust-column-width-and-row-height)
+  * [AutoFit Columns and Rows](#autofit-columns-and-rows)
+* [Insert and Delete Columns and Rows](#insert-and-delete-columns-and-rows)
+  * [How to: Insert a Column or a Row](#how-to--insert-a-column-or-a-row)
+  * [Another Way: Delete Columns or Rows](#another-way--delete-columns-or-rows)
+* [The Insert and Delete Dialog Boxes](#the-insert-and-delete-dialog-boxes)
+* [Hide and Unhide Columns and Rows](#hide-and-unhide-columns-and-rows)
+* [Insert and Delete Worksheets](#insert-and-delete-worksheets)
+* [Rename Worksheets and Change Tab Color](#rename-worksheets-and-change-tab-color)
+* [Move and Copy Worksheets](#move-and-copy-worksheets)
+* [SLO 1.6 - Navigating in a Workbook](#slo-16---navigating-in-a-workbook)
+  * [Common Navigation Commands](#common-navigation-commands)
+    * [MORE INFO](#more-info-2)
+  * [The Name Box](#the-name-box)
+    * [HOW TO: Navigate Using the Name Box](#how-to--navigate-using-the-name-box)
+  * [The Go To Command](#the-go-to-command)
+    * [ANOTHER WAY](#another-way)
+      * [HOW TO: Navigate in a Workbook Using the Go To Command](#how-to--navigate-in-a-workbook-using-the-go-to-command)
+    * [The Find Command](#the-find-command)
+    * [Wildcard Characters](#wildcard-characters)
+      * [ANOTHER WAY](#another-way-1)
+      * [HOW TO: Search for Data Using the Find Command](#how-to--search-for-data-using-the-find-command)
+* [SLO 1.7 - Modifying Screen Appearance of a Workbook](#slo-17---modifying-screen-appearance-of-a-workbook)
+  * [Workbook Views](#workbook-views)
+    * [How to Switch Workbook Views Using the Status Bar](#how-to-switch-workbook-views-using-the-status-bar)
+  * [Zoom Options](#zoom-options)
+  * [Freeze Panes](#freeze-panes)
+    * [How to Freeze and Unfreeze Panes](#how-to-freeze-and-unfreeze-panes)
+  * [Split a Worksheet into Panes](#split-a-worksheet-into-panes)
+    * [How to Split a Worksheet](#how-to-split-a-worksheet)
+  * [Hide or Unhide Worksheets](#hide-or-unhide-worksheets)
+    * [How to Hide and Unhide Worksheets](#how-to-hide-and-unhide-worksheets)
+  * [Switch Windows Command](#switch-windows-command)
+    * [How to Switch Windows Using the Ribbon](#how-to-switch-windows-using-the-ribbon)
+  * [View Multiple Worksheets](#view-multiple-worksheets)
+    * [How to View Two Worksheets at the Same Time](#how-to-view-two-worksheets-at-the-same-time)
+* [SLO 1.8 - Managing Page, Print, and Document Settings](#slo-18---managing-page-print-and-document-settings)
+  * [The Page Setup Dialog Box](#the-page-setup-dialog-box)
+    * [Page Tab](#page-tab)
+    * [Margins Tab](#margins-tab)
+    * [Header/Footer Tab](#headerfooter-tab)
+    * [Sheet Tab](#sheet-tab)
+  * [Margins, Page Orientation, and Paper Size](#margins-page-orientation-and-paper-size)
+  * [Headers and Footers](#headers-and-footers)
+    * [Preset Headers and Footers](#preset-headers-and-footers)
+  * [Page Breaks](#page-breaks)
+* [Chapter Summary](#chapter-summary)
+<!-- TOC -->
+
 # SLO 1.1: Creating, Saving, and Opening a Workbook
 
 # Create a New Workbook
@@ -933,7 +1054,7 @@ of rows visible on your screen.
 ### The Find Command
 
 - The Find command locates occurrences of a character string in a workbook.
-- A character string is any alphanumeric combination, such as “per” or “13.”
+- A character string is any alphanumeric combination, such as ï¿½perï¿½ or ï¿½13.ï¿½
 - You can use wildcard characters, restrict the search to the current sheet,
   search by row or column, match case, or look for formats.
 
@@ -943,14 +1064,14 @@ This table lists wildcard characters, their results, and examples.
 
 | Character  | Result and Example                                                                                                |
 |:----------:|:------------------------------------------------------------------------------------------------------------------|
-|    `?`     | Finds any single character. s?t finds three-character strings such “sit” or “s2t” but not “salt.”                 |
-|   `???`    | Finds any three characters. ???rd finds five-character strings such as “third” or “123rd” but not “keyboard.”     |
-|    `*`     | Finds any number of characters. m*n finds all character strings that begin with “m” and end with “n.”             |
-| `*street*` | Finds all addresses that include the word “street.”                                                               |
+|    `?`     | Finds any single character. s?t finds three-character strings such ï¿½sitï¿½ or ï¿½s2tï¿½ but not ï¿½salt.ï¿½                 |
+|   `???`    | Finds any three characters. ???rd finds five-character strings such as ï¿½thirdï¿½ or ï¿½123rdï¿½ but not ï¿½keyboard.ï¿½     |
+|    `*`     | Finds any number of characters. m*n finds all character strings that begin with ï¿½mï¿½ and end with ï¿½n.ï¿½             |
+| `*street*` | Finds all addresses that include the word ï¿½street.ï¿½                                                               |
 |    `~?`    | Finds a question mark in the data.                                                                                |
 |    `~*`    | Finds an asterisk in the data.                                                                                    |
-| `*date~?`  | Finds character strings that include “date” preceded by any number of characters but followed by a question mark. |
-|  `~*See*`  | Finds character strings that display “*See” followed by any number of characters.                                 |
+| `*date~?`  | Finds character strings that include ï¿½dateï¿½ preceded by any number of characters but followed by a question mark. |
+|  `~*See*`  | Finds character strings that display ï¿½*Seeï¿½ followed by any number of characters.                                 |
 
 #### ANOTHER WAY
 
@@ -1013,7 +1134,7 @@ This table lists wildcard characters, their results, and examples.
 
 ## Zoom Options
 
-- Change the sheet’s magnification to see more of the data at once or to
+- Change the sheetï¿½s magnification to see more of the data at once or to
   scrutinize content more carefully using the Zoom group on the View tab or the
   Zoom controls in the Status bar.
 - The Status bar controls include a `Zoom In` button, a `Zoom Out` button, and

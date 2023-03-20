@@ -1,17 +1,21 @@
 # Module 1 - Creating and Editing Documents
 
-# Table of Contents
+<!-- TOC -->
+* [Module 1 - Creating and Editing Documents](#module-1---creating-and-editing-documents)
+* [General Notes](#general-notes)
+* [Clipboard](#clipboard)
+* [Quick Access Toolbar](#quick-access-toolbar)
+* [Repeat Change](#repeat-change)
+* [Fonts, Fonts Sizes, and Attributes](#fonts-fonts-sizes-and-attributes)
+  * [Font Dialog Box](#font-dialog-box)
+  * [Character Spacing](#character-spacing)
+  * [Text Effects](#text-effects)
+* [Search and The Search Pane](#search-and-the-search-pane)
+* [Editor Pane](#editor-pane)
+* [Summary (Most Tasks Are Simple)](#summary--most-tasks-are-simple-)
+<!-- TOC -->
 
-- [Clipboard](#clipboard)
-- [Quick Access Toolbar](#quick-access-toolbar)
-- [Repeat Change](#repeat-change)
-- [Fonts, Fonts Sizes, and Attributes](#fonts-fonts-sizes-and-attributes)
-  - [Font Dialog Box](#font-dialog-box)
-  - [Character Spacing](#character-spacing)
-  - [Text Effects](#text-effects)
-- [Search and The Search Pane](#search-and-the-search-pane)
-- [Editor Pane](#editor-pane)
-- [Summary (Most Tasks Are Simple)](#summary-most-tasks-are-simple)
+# General Notes
 
 - **Block Format:** All lines begin at the left margin
 - **Backstage View:** The view when you hit the **File** tab in Word.

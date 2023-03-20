@@ -1,5 +1,12 @@
 # Module 2 - Formatting and Customizing Documents
 
+<!-- TOC -->
+* [Module 2 - Formatting and Customizing Documents](#module-2---formatting-and-customizing-documents)
+* [General Notes](#general-notes)
+  * [Q&A](#qa)
+* [Chapter Summary](#chapter-summary)
+<!-- TOC -->
+
 # General Notes
 
 > Notes will only be taken on non-common information, and will be general
@@ -38,7 +45,7 @@
 - The paper size default in Microsoft Word is **Letter**.
 - If you need to add information outside of the left margin, use **an outdent**.
 - You want each page footer to show the current page number as well as the total
-  number of pages, such as “1 of 4,” “2 of 4,” and so on. You do this by
+  number of pages, such as ï¿½1 of 4,ï¿½ ï¿½2 of 4,ï¿½ and so on. You do this by
   **Selecting the Page Number button, in the Header & Footer group, and then
   selecting Format Page Numbers**
 
@@ -53,7 +60,7 @@
   - Change default page settings using the **Page Setup dialog** box.
   - **Landscape** and **Portrait** are the two **page orientation**
   options.
-  - A standard sheet of paper is 8 ½" × 11". Select other paper sizes or
+  - A standard sheet of paper is 8 ï¿½" ï¿½ 11". Select other paper sizes or
   create a custom **paper size**.
   - **Vertical alignment** controls text alignment between the top and
   bottom margins. By default, text aligns vertically at the top of the
@@ -93,7 +100,7 @@
   - Insert a **page number** into the header or footer in various
   locations or use default tab settings. When you insert a page number, a
   **page number field** automatically displays the current page number.
-  - **Headers** and **footers** are areas above and below a document’s
+  - **Headers** and **footers** are areas above and below a documentï¿½s
   top and bottom margins.
   - The **Different First Page** option enables you to remove or have
   different first page content in the header or footer.
@@ -161,7 +168,7 @@
   page, a different document, a different location in a document, or an
   email address.
   - An email hyperlink opens Microsoft Outlook and places the
-  recipient’s email address in the email message.
+  recipientï¿½s email address in the email message.
   - Customize a link to display a **ScreenTip** that displays text when
   you place your point on a link and set a **target frame** to control
   where the link opens.

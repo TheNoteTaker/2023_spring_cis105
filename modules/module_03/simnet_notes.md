@@ -1,5 +1,62 @@
 # Module 3 - Word: Collaborating With Others and Working With Reports
 
+<!-- TOC -->
+* [Module 3 - Word: Collaborating With Others and Working With Reports](#module-3---word--collaborating-with-others-and-working-with-reports)
+* [General Notes](#general-notes)
+* [SLO 3.1: Using Comments](#slo-31--using-comments)
+  * [Change User Name](#change-user-name)
+  * [Insert a Comment](#insert-a-comment)
+  * [Modern Comments](#modern-comments)
+  * [Ink Comments](#ink-comments)
+  * [Review Comments](#review-comments)
+  * [Edit and Delete Comments](#edit-and-delete-comments)
+* [SLO 3.2: Using Track Changes and Sharing](#slo-32--using-track-changes-and-sharing)
+  * [Track Changes](#track-changes)
+  * [Display for Review Views](#display-for-review-views)
+  * [Accept and Reject Changes](#accept-and-reject-changes)
+  * [Reviewing Pane](#reviewing-pane)
+  * [Share an Online File](#share-an-online-file)
+* [SLO 3.3 - Using Footnotes and Endnotes](#slo-33---using-footnotes-and-endnotes)
+  * [Inserting Footnotes](#inserting-footnotes)
+  * [Inserting Endnotes](#inserting-endnotes)
+  * [Viewing Footnotes and Endnotes](#viewing-footnotes-and-endnotes)
+  * [Customizing Footnotes and Endnotes](#customizing-footnotes-and-endnotes)
+  * [Modifying Footnote and Endnote Format](#modifying-footnote-and-endnote-format)
+  * [Converting Footnotes and Endnotes](#converting-footnotes-and-endnotes)
+  * [Moving Footnotes and Endnotes](#moving-footnotes-and-endnotes)
+  * [Deleting Footnotes and Endnotes](#deleting-footnotes-and-endnotes)
+* [SLO 3.4 Creating a Bibliography and Inserting Citations](#slo-34-creating-a-bibliography-and-inserting-citations)
+  * [Report Styles](#report-styles)
+* [SLO 3.5 - Inserting a Table of Contents](#slo-35---inserting-a-table-of-contents)
+  * [Creating a Bibliography and Inserting Citations](#creating-a-bibliography-and-inserting-citations)
+  * [To insert a table of contents in a report:](#to-insert-a-table-of-contents-in-a-report-)
+  * [To insert a custom table of contents:](#to-insert-a-custom-table-of-contents-)
+  * [To modify a table of contents:](#to-modify-a-table-of-contents-)
+  * [To update a table of contents:](#to-update-a-table-of-contents-)
+  * [To remove a table of contents:](#to-remove-a-table-of-contents-)
+* [SLO 3.6 - Inserting a Cover Page](#slo-36---inserting-a-cover-page)
+  * [Inserting a Cover Page](#inserting-a-cover-page)
+  * [Insert a Built-In Cover Page](#insert-a-built-in-cover-page)
+  * [Customize Cover Page Content](#customize-cover-page-content)
+  * [Customize Document Property Content](#customize-document-property-content)
+  * [Add or Remove Document Property Fields](#add-or-remove-document-property-fields)
+  * [Customize Content Control Fields](#customize-content-control-fields)
+  * [Remove a Cover Page](#remove-a-cover-page)
+* [SLO 3.7 - Using Advanced Headers and Footers](#slo-37---using-advanced-headers-and-footers)
+  * [Headers and Footers](#headers-and-footers)
+  * [Page and Section Breaks](#page-and-section-breaks)
+  * [Built-In Headers, Footers, and Page Numbers](#built-in-headers-footers-and-page-numbers)
+  * [Customize Header and Footer Content](#customize-header-and-footer-content)
+  * [Different First Page Header and Footer](#different-first-page-header-and-footer)
+  * [Different Odd and Even Pages](#different-odd-and-even-pages)
+  * [Link to Previous Header or Footer](#link-to-previous-header-or-footer)
+  * [Format Page Numbers](#format-page-numbers)
+  * [Navigate between Headers and Footers](#navigate-between-headers-and-footers)
+  * [Remove a Header or Footer](#remove-a-header-or-footer)
+* [Chapter Summary](#chapter-summary)
+* [Q & A](#q--a)
+<!-- TOC -->
+
 # General Notes
 
 # SLO 3.1: Using Comments
@@ -494,7 +551,7 @@
 2. The standard footnote reference marker format is **Superscript**.
 3. MLA and APA are the two most common report formats. APA stands for **American
    Psychological Association**.
-4. You need to insert a citation, but you don’t yet have all of the source
+4. You need to insert a citation, but you donï¿½t yet have all of the source
    information. You should mark that spot in the document with a
    **Placeholder**.
 5. You want to create a built-in cover page for your report, you go to the

@@ -4,6 +4,8 @@ import re
 
 # TODO: Add class to extract the notes page from the iframe of the reader page
 class NotesPage:
+    # BOOK_URL = r"https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/chapter10/reader_02.xhtml"
+    # DICT_URL = r"https://epub-factory-cdn.mheducation.com/publish/sn_7bac8/7/1080mp4/OPS/s9ml/glossary.xhtml"
     BASE_RE = r"http[s]?://(?:www.)?epub-factory[^\./]*(?:\.[^/]+)+(?:/[^/]+)+"
     EXT_RE = ".xhtml"
     DICT_RE = re.compile(f"{BASE_RE}/glossary{EXT_RE}")

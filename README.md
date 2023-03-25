@@ -23,3 +23,6 @@
 - **Module 8**
   - [Connect Notes - Communications and Network](modules/module_08/connect_notes.md)
   - [Simnet Notes - Excel: Creating and Editing Charts](modules/module_08/simnet_notes.md)
+- **Module 9**
+  - [Connect Notes - Privacy, Security, and Ethics](modules/module_09/connect_notes.md)
+  - [Simnet Notes - Excel: Getting and Managing Data](modules/module_09/simnet_notes.md)

@@ -2,11 +2,11 @@ import textwrap
 import pyperclip
 import re
 
-FILENAME = "../modules/module_03/temp.md"
+FILENAME = "./temp.md"
 column_width = 72
 
 # Open file
-with open(FILENAME, 'r', encoding='cp1252') as file:
+with open(FILENAME, 'r', encoding='utf-8') as file:
     file_text = file.read()
 
 split_lines = file_text.split("\n\n")

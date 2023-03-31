@@ -1,74 +1,76 @@
 # Module 10 - Information Systems
 
 <!-- TOC -->
+
 * [Module 10 - Information Systems](#module-10---information-systems)
 * [General Notes](#general-notes)
 * [Information Systems Manager and Computer Information Systems](#information-systems-manager-and-computer-information-systems)
-  * [What is an Information System?](#what-is-an-information-system)
-  * [Why are Computers Used in Organizations?](#why-are-computers-used-in-organizations)
-  * [Understanding Information Flows in Organizations](#understanding-information-flows-in-organizations)
-  * [Conclusion](#conclusion)
+    * [What is an Information System?](#what-is-an-information-system)
+    * [Why are Computers Used in Organizations?](#why-are-computers-used-in-organizations)
+    * [Understanding Information Flows in Organizations](#understanding-information-flows-in-organizations)
+    * [Conclusion](#conclusion)
 * [Organizational Information Flow](#organizational-information-flow)
-  * [Introduction](#introduction)
-  * [Organization Structure](#organization-structure)
-  * [Basic Functional Areas in Organizations](#basic-functional-areas-in-organizations)
-    * [Examples](#examples)
-    * [Organization Chart](#organization-chart)
-    * [Conclusion](#conclusion-1)
-  * [Management Levels and Information Flow](#management-levels-and-information-flow)
-    * [Introduction](#introduction-1)
-    * [Management Levels](#management-levels)
-      * [Examples](#examples-1)
-      * [Organization Chart](#organization-chart-1)
-    * [Information Flow](#information-flow)
-      * [Information Flow within an Organization](#information-flow-within-an-organization)
-      * [Information Flow Chart](#information-flow-chart)
-    * [Conclusion](#conclusion-2)
+    * [Introduction](#introduction)
+    * [Organization Structure](#organization-structure)
+    * [Basic Functional Areas in Organizations](#basic-functional-areas-in-organizations)
+        * [Examples](#examples)
+        * [Organization Chart](#organization-chart)
+        * [Conclusion](#conclusion-1)
+    * [Management Levels and Information Flow](#management-levels-and-information-flow)
+        * [Introduction](#introduction-1)
+        * [Management Levels](#management-levels)
+            * [Examples](#examples-1)
+            * [Organization Chart](#organization-chart-1)
+        * [Information Flow](#information-flow)
+            * [Information Flow within an Organization](#information-flow-within-an-organization)
+            * [Information Flow Chart](#information-flow-chart)
+        * [Conclusion](#conclusion-2)
 * [Computer-Based Information Systems](#computer-based-information-systems)
-  * [Types of Information Systems](#types-of-information-systems)
-    * [Information Systems Chart](#information-systems-chart)
-  * [Transaction Processing System (TPS)](#transaction-processing-system--tps-)
-  * [Management Information System (MIS)](#management-information-system--mis-)
-  * [Decision Support System (DSS)](#decision-support-system--dss-)
-  * [Executive Support System (ESS) or Executive Information System (EIS)](#executive-support-system--ess--or-executive-information-system--eis-)
-  * [Conclusion](#conclusion-3)
+    * [Types of Information Systems](#types-of-information-systems)
+        * [Information Systems Chart](#information-systems-chart)
+    * [Transaction Processing System (TPS)](#transaction-processing-system--tps-)
+    * [Management Information System (MIS)](#management-information-system--mis-)
+    * [Decision Support System (DSS)](#decision-support-system--dss-)
+    * [Executive Support System (ESS) or Executive Information System (EIS)](#executive-support-system--ess--or-executive-information-system--eis-)
+    * [Conclusion](#conclusion-3)
 * [Transaction Processing System (TPS)](#transaction-processing-system--tps--1)
-  * [Accounting TPS](#accounting-tps)
-  * [Other TPSs](#other-tpss)
-    * [Conclusion](#conclusion-4)
+    * [Accounting TPS](#accounting-tps)
+    * [Other TPSs](#other-tpss)
+        * [Conclusion](#conclusion-4)
 * [Management Information System (MIS)](#management-information-system--mis--1)
-  * [Example Report](#example-report)
-  * [Key Points](#key-points)
-    * [Categories of MIS Reports](#categories-of-mis-reports)
-    * [Conclusion](#conclusion-5)
+    * [Example Report](#example-report)
+    * [Key Points](#key-points)
+        * [Categories of MIS Reports](#categories-of-mis-reports)
+        * [Conclusion](#conclusion-5)
 * [Decision Support System (DSS)](#decision-support-system--dss--1)
-  * [Parts of a DSS](#parts-of-a-dss)
-  * [Group Decision Support Systems (GDSS)](#group-decision-support-systems--gdss-)
-  * [Concept Check](#concept-check)
+    * [Parts of a DSS](#parts-of-a-dss)
+    * [Group Decision Support Systems (GDSS)](#group-decision-support-systems--gdss-)
+    * [Concept Check](#concept-check)
 * [Executive Support Systems (ESSs)](#executive-support-systems--esss-)
-  * [Example of an ESS](#example-of-an-ess)
-    * [ESS Main Menu](#ess-main-menu)
-    * [ESS Past Due Accounts](#ess-past-due-accounts)
-  * [Advantages of ESSs](#advantages-of-esss)
-  * [Summary of Information Systems](#summary-of-information-systems)
-  * [Comparison of ESSs to MISs and DSSs](#comparison-of-esss-to-miss-and-dsss)
-  * [Conclusion](#conclusion-6)
+    * [Example of an ESS](#example-of-an-ess)
+        * [ESS Main Menu](#ess-main-menu)
+        * [ESS Past Due Accounts](#ess-past-due-accounts)
+    * [Advantages of ESSs](#advantages-of-esss)
+    * [Summary of Information Systems](#summary-of-information-systems)
+    * [Comparison of ESSs to MISs and DSSs](#comparison-of-esss-to-miss-and-dsss)
+    * [Conclusion](#conclusion-6)
 * [Other Information Systems](#other-information-systems)
-  * [Introduction](#introduction-2)
-  * [Information Workers](#information-workers)
-  * [Office Automation Systems (OAS)](#office-automation-systems--oas-)
-  * [Knowledge Work Systems (KWS)](#knowledge-work-systems--kws-)
-  * [Expert Systems](#expert-systems)
-  * [Conclusion](#conclusion-7)
+    * [Introduction](#introduction-2)
+    * [Information Workers](#information-workers)
+    * [Office Automation Systems (OAS)](#office-automation-systems--oas-)
+    * [Knowledge Work Systems (KWS)](#knowledge-work-systems--kws-)
+    * [Expert Systems](#expert-systems)
+    * [Conclusion](#conclusion-7)
 * [Information Systems Manager](#information-systems-manager)
-  * [Job Description](#job-description)
-  * [Requirements](#requirements)
-  * [Salary and Advancement](#salary-and-advancement)
+    * [Job Description](#job-description)
+    * [Requirements](#requirements)
+    * [Salary and Advancement](#salary-and-advancement)
 * [Careers in IT](#careers-in-it)
-  * [What is an Information Systems Manager?](#what-is-an-information-systems-manager)
-  * [Salary and Advancement Opportunities](#salary-and-advancement-opportunities)
-  * [IBM’s Watson](#ibms-watson)
-  * [Conclusion](#conclusion-8)
+    * [What is an Information Systems Manager?](#what-is-an-information-systems-manager)
+    * [Salary and Advancement Opportunities](#salary-and-advancement-opportunities)
+    * [IBM’s Watson](#ibms-watson)
+    * [Conclusion](#conclusion-8)
+
 <!-- TOC -->
 
 # General Notes
@@ -313,9 +315,14 @@ activities. These are:
    materials and services it has received.
 5. **Payroll:** concerned with calculating employee paychecks.
 6. **General Ledger:** keeps track of all summaries of all the foregoing
-   transactions. A typical general ledger system can produce income statements
-   and balance sheets. Income statements show a company’s financial performance,
-   and balance sheets list the overall financial condition of an organization.
+   transactions. A typical general ledger system can produce
+   **income statements** and **balance sheets**.
+    - **Income statements** show a company’s financial performance, income,
+      expenses, and difference between them for a company during a specific time
+      period
+    - **Balance sheets** list the overall financial condition of an
+      organization, including the assets, liabilities, and the equity of an
+      organization.
 
 ## Other TPSs
 
@@ -550,7 +557,7 @@ increased by 3% in Accounting.
 
 ## Office Automation Systems (OAS)
 
-- Designed primarily to support data workers
+- Designed primarily to support **data workers**
 - Focus on managing documents, communicating, and scheduling
 - Word processing, web authoring, desktop publishing, and other image
   technologies are used for managing documents.
@@ -561,7 +568,8 @@ increased by 3% in Accounting.
 
 ## Knowledge Work Systems (KWS)
 
-- Knowledge workers use OAS systems and specialized information systems called
+- **Knowledge workers** use OAS systems and specialized information systems
+  called
   Knowledge Work Systems (KWSs) to create information in their areas of
   expertise
 - KWSs consist of powerful personal computers running special programs that

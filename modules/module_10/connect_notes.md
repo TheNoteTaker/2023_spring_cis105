@@ -545,7 +545,7 @@ increased by 3% in Accounting.
 - **Data workers** are involved with distribution and communication of
   information
     - _Ex. Administrative assistants and clerks_
-- Knowledge workers are involved with the creation of information
+- **Knowledge workers** are involved with the creation of information
     - _Ex. Engineers and scientists_
 
 ## Office Automation Systems (OAS)

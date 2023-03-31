@@ -27,4 +27,4 @@
   - [Connect Notes - Privacy, Security, and Ethics](modules/module_09/connect_notes.md)
   - [Simnet Notes - Excel: Getting and Managing Data](modules/module_09/simnet_notes.md)
 - **Module 10**
-  - [Connect Notes - Information Systems](modules/module_09/connect_notes.md)
+  - [Connect Notes - Information Systems](modules/module_10/connect_notes.md)

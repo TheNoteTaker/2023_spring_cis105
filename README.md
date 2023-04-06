@@ -29,6 +29,6 @@
 - **Module 10**
   - [Connect Notes - Information Systems](modules/module_10/connect_notes.md)
 - **Module 11**
-  - [Connect Notes - Databases](modules/module_11/notes.md)
+  - [Connect Notes - Databases](modules/module_11/connect_notes.md)
   - [Simnet Notes - PowerPoint: Creating and Editing Business Documents](modules/module_11/simnet_notes_chapter_1.md)
   - [Simnet Notes - PowerPoint: Illustrating with Pictures and Information Graphics](modules/module_11/simnet_notes_chapter_2.md)

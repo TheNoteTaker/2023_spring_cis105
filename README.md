@@ -32,3 +32,6 @@
   - [Connect Notes - Databases](modules/module_11/connect_notes.md)
   - [Simnet Notes - PowerPoint: Creating and Editing Business Documents](modules/module_11/simnet_notes_chapter_1.md)
   - [Simnet Notes - PowerPoint: Illustrating with Pictures and Information Graphics](modules/module_11/simnet_notes_chapter_2.md)
+- **Module 12**
+  - [Connect Notes - Systems Analysis and Design](modules/module_12/connect_notes.md)
+  - [Simnet Notes - PowerPoint: Preparing for Delivery and Using a Slide Presentation](modules/module_12/simnet_notes.md)

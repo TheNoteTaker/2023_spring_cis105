@@ -35,3 +35,6 @@
 - **Module 12**
   - [Connect Notes - Systems Analysis and Design](modules/module_12/connect_notes.md)
   - [Simnet Notes - PowerPoint: Preparing for Delivery and Using a Slide Presentation](modules/module_12/simnet_notes.md)
+- **Module 13**
+  - [Connect Notes - Programming and Languages](modules/module_13/connect_notes.md)
+  - [Simnet Notes - Access: Creating a Database and Tables](modules/module_13/simnet_notes.md)
